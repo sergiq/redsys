@@ -9,7 +9,7 @@
   "license": "MIT",
   "type": "project",
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=5.4.0"
   },
   "config": {
     "preferred-install": "dist"
