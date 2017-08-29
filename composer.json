@@ -1,0 +1,18 @@
+{
+  "name": "sergiq/redsys",
+  "description": "Redsys PHP API",
+  "keywords": [
+    "Redsys",
+    "api",
+    "php"
+  ],
+  "license": "MIT",
+  "type": "project",
+  "require": {
+    "php": ">=5.4.0",
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "minimum-stability": "dev"
+}
