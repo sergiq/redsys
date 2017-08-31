@@ -11,6 +11,11 @@
   "require": {
     "php": ">=5.4.0"
   },
+  "autoload": {
+    "psr-4": {
+      "Sergiq\\Redsys\\": "src/"
+    }
+  },
   "config": {
     "preferred-install": "dist"
   },

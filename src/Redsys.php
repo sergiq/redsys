@@ -23,7 +23,7 @@
 
 namespace Sergiq\Redsys;
 
-class RedsysAPI{
+class Redsys{
 
 	/******  Array de DatosEntrada ******/
     var $vars_pay = array();
