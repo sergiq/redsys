@@ -21,6 +21,8 @@
 * Redsys Servicios de Procesamiento, S.L., CIF B85955367
 */
 
+namespace Sergiq\Redsys;
+
 class RedsysAPI{
 
 	/******  Array de DatosEntrada ******/
